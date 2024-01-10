@@ -1,0 +1,21 @@
+
+
+#first-heading{ 
+    color: black;
+}
+
+
+.second-heading{
+    color: green;
+}
+
+.title.heading{
+    color: palevioletred
+}
+
+.box .title{
+    color: palevioletred
+}
+*{
+    font-size: 30px;
+}
